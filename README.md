@@ -20,7 +20,7 @@
     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div></br>
 
-"A tecnologia não é apenas uma ferramenta, mas o alicerce da inovação que conecta sonhos à realidade."
+"A tecnologia não é apenas uma ferramenta 🦾, mas o alicerce da inovação que conecta sonhos à realidade." 🧠
 
 ## Últimos trabalhos realizados:
 
